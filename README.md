@@ -2,6 +2,8 @@
 
 Bootloader configuration for macOS on F571GT-BQ619T
 
+⚠️ Remove wifi drivers while installing macOS or installation will halt
+
 ## Status
 
 ### What's working
