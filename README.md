@@ -10,6 +10,7 @@ Bootloader configuration for macOS on F571GT-BQ619T
 
 - [x] CPU Power Management
 - [x] Intel HD 630 Graphics
+- [x] Nvidia GPU Disabling SSDT
 - [x] USB Ports
 - [x] Sleep
 - [x] Ethernet
